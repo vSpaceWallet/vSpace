@@ -201,7 +201,7 @@ Adapts [Islet](https://github.com/islet-project/islet), an open-source framework
 - **Remote Attestation**:  
   - *TODO*: Use Islet’s attestation protocols to verify TEE integrity during voter registration.  
 - **Cross-Platform TEE**:  
-  - *TODO*: Enable interoperability between Samsung Knox and ARM TrustZone/Intel SGX nodes.  
+  - *TODO*: Enable interoperability between Samsung Knox and ARM TrustZone/Intel TDX nodes.  
 
 ---
 
