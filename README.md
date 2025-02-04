@@ -121,6 +121,23 @@ vSPACE PETs combines **Trusted Execution Environments (TEE)**, **Secure Multi-Pa
 ---
 
 ## CISA 2025 Secure-by-Design Compliance 🔐  
+
+## Conforming to the [NCSC-UK co-sealed] CISA 2025 joint Cybersecurity Information Sheet (CSI) on Secure-by-Design-OT; with such CSI urging OT owners and operators to select products with the following key security elements:
+-- configuration management,
+-- logging in the baseline product,
+-- open standards, ownership,
+-- protection of data,
+-- secure by default,
+-- secure communications,
+-- secure controls,
+-- strong authentication,
+-- threat modeling [MITRE EMB3D based ICTM (Invariant-Centric Threat Modeling)],
+-- vulnerability handling, and
+-- upgrade tooling.
+
+https://media.defense.gov/2025/Jan/13/2003626906/-1/-1/0/JOINT-GUIDE-SECURE-BY-DEMAND-PRIORITY-CONSIDERATIONS-OT-OWNERS-OPERATORS.PDF
+https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4027075/nsa-and-others-publish-guidance-for-secure-ot-product-selection/
+
 ### 1. Configuration Management  
 *TODO: Define Knox-enforced device configs (e.g., FHE key rotation).* 🛠️  
 
